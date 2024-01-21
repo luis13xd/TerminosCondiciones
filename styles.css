@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header, main, footer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+strong {
+    color: #007BFF;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 20px;
+    background-color: #f8f9fa;
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+}
